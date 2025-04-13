@@ -1,8 +1,8 @@
 {
-    "subdomain": "my-awesome-documentation",
+    "subdomain": "manual",
     "guides": [
       {
-        "name": "My awesome documentation",
+        "name": "Demo",
         "sidebar": [
           {
             "path": "docs/introduction.md",
